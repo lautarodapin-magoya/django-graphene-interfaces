@@ -1,0 +1,1 @@
+Prueba de interfaces y uniones en django 5
